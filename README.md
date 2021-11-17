@@ -25,8 +25,8 @@ You'll find a list of open questions and active research topics over on the
 [Issues] page. You can edit content or add new pages by creating a [pull
 request].
 
-[Discussions]: https://github.com/ethereum-optimism/optimistic-specs/discussions
-[Issues]: https://github.com/ethereum-optimism/optimistic-specs/issues
+[discussions]: https://github.com/ethereum-optimism/optimistic-specs/discussions
+[issues]: https://github.com/ethereum-optimism/optimistic-specs/issues
 [pull request]: https://github.com/ethereum-optimism/optimistic-specs/pulls
 
 ### R&D Calls
